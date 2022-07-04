@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "puppeteer": "^15.3.0"
+  },
+  "name": "pits-bots",
+  "description": "Bots fuer die pits praesentation",
+  "version": "1.0.0",
+  "main": "emailScrape.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floseph/pits-bots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floseph/pits-bots/issues"
+  },
+  "homepage": "https://github.com/floseph/pits-bots#readme"
+}
